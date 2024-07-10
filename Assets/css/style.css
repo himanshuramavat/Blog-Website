@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700&display=swap');*{
+  font-family: 'Mulish', sans-serif;
+}
+
+body{
+  background-color:rgb(232, 238, 243);
+  background-repeat:repeat;
+
+}
+
+#top {
+  position: relative;
+  top: 20px;
+  display: block;
+  }
+
+  a,a:hover{
+    text-decoration: none;
+    color: #313131;
+  }
+  i{
+    font-style: normal!important;
+  }
+.button a {
+  color: azure;
+}
+.testimonial-card{
+  height: 500px;
+}
+.testimonial-card .card-up {
+  height: 120px;
+  overflow: hidden;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  }
+  
+  .testimonial-card .avatar {
+  width: 110px;
+  margin-top: -60px;
+  overflow: hidden;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  }
+.card-footer a {
+  font-weight:600!important
+}
+.card-body h5 .new {
+  font-size: 0.80rem;
+  font-weight: 500;
+  
+}
+.card-footer .btn a{
+  text-decoration: none !important;
+
+}
+.card-footer  .btn-secondary a{
+  color: whitesmoke  !important;
+
+}
+.card-footer  .btn-outline-danger a{
+  color: black  !important;
+
+}
+
